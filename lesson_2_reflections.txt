@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 stging area conatins the files whch are to be commited.
 it helps us to comit nly dos files whch are in satging area rather than whole working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+by adding specific files.
