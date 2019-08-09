@@ -4,4 +4,11 @@ when i want to access my file remotely from my pc.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 so that evry tym i make a commit locally does not reflect back into github . as it may symbolize a complete chnge to show it publically.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+clone is from local to local or from github to local
+fork is from github to github
+branch is to take a differnt path from master.
+
+
 
