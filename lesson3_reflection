@@ -11,4 +11,8 @@ fork is from github to github
 branch is to take a differnt path from master.
 
 
+What is the benefit of having a copy of the last known state of the remote stored local?
+helps in updating the master and merging.
+
+
 
